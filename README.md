@@ -1,5 +1,5 @@
 # Dotnet, Git, Github - Pratik ve Notlarım
-Notlarim.docx dosyası çalışmaların bulunduğu ana dosya olmakla birlikte diğer dosyalar da eklenip çıkarılarak pratik yapılmıştır. Dotnet terminal komutları ve işlevlerine kısaca bir değinilmiş, Git üzerinde init, status, diff, config, log, add, commit, restore/checkout ve alias gibi işlemler gerçekleştirilmiş, Github üzerinden yeni repository, push, pull, branch mantığı gibi konulara değinilmiştir.
+Notlarim.docx dosyası çalışmaların bulunduğu ana dosya olmakla birlikte diğer dosyalar da eklenip çıkarılarak pratik yapılmıştır. Dotnet terminal komutları ve işlevlerine kısaca bir değinilmiş, Git üzerinde init, status, diff, config, log, add, commit, restore/checkout ve alias gibi işlemler gerçekleştirilmiş, Github üzerinden yeni repository, push, pull, branch mantığı gibi konulara değinilmiştir. Ayrıca main-master sıkıntısı yaşanıp çoğu değişiklik kaybedilmiştir ama pratik, amacını yerine getirmiş, unutulan önemli bir durum, tekrar hatırlanmıştır.
 
 Uzun zamandır IDE'lerime entegre uzantılarla yaptığım bu basit işlerin CLI tarafını da hatırlamak amacıyla oluşturulmuş bir repo olup pratikler yapılmış ve hatta yapılacak olup takip edilebilir.
 
